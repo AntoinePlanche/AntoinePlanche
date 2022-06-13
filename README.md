@@ -25,5 +25,5 @@
 
 ## GitHub <img align="center" src="https://img.shields.io/github/followers/AntoinePlanche?style=social" alt="AntoinePlanche" />
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoinePlanche&layout=compact&langs_count=12" alt="AntoinePlanche" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AntoinePlanche&show_icons=true" alt="AntoinePlanche" />
+<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoinePlanche&layout=compact&langs_count=12" alt="AntoinePlanche" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=AntoinePlanche&show_icons=true" alt="AntoinePlanche" /></p>
