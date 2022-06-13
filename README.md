@@ -1,8 +1,8 @@
 ### Hello World :computer:
 
 - 🔭 I’m currently studying at <a href="https://www.utbm.fr">UTBM</a> in France before leaving for a year in Canada at <a href="https://www.etsmtl.ca/">ETS</a>. 
-- :rocket: Currently learning about datascience, semantic web and database architecture and administration.
-- :mortar_board: My goal is to work as a software engineer but I am also very interested in machine learning
+- :notebook: Currently learning about datascience, semantic web and database architecture and administration.
+- :soon: My goal is to work as a software engineer but I am also very interested in machine learning
 
 
 🛠️**Skills :floppy_disk:**
