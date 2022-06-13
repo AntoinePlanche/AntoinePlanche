@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello World :computer:
 
-<!--
-**AntoinePlanche/AntoinePlanche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studying at <a href="https://www.utbm.fr">UTBM</a> in France before leaving for a year in Canada at <a href="https://www.etsmtl.ca/">ETS</a>. 
+- :rocket: Currently learning about datascience, semantic web and database architecture and administration.
+- :mortar_board: Bachelor in Software Dev & Multimedia from <a href="https://www.he-arc.ch">HE-Arc</a>. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️**Skills :floppy_disk:**
+
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_cuda.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Tesseract_OCR_logo_%28Google%29.png/220px-Tesseract_OCR_logo_%28Google%29.png"></code>
+
+
+## GitHub <img align="center" src="https://img.shields.io/github/followers/AntoinePlanche?style=social" alt="AntoinePlanche" />
+
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoinePlanche&layout=compact&langs_count=12" alt="AntoinePlanche" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AntoinePlanche&show_icons=true" alt="AntoinePlanche" />
